@@ -13,9 +13,17 @@
 5. ターミナルで以下を貼り付け実行
    ``` md
    git add .
-   ```  
-7. Create repositoryの後の画面の生成されたURL```「https://github.com/リポジトリー名.git」```をコピーしてくる。  
-8. 「git remote add origin [生成されたURL]」と打ちEnterを押す。  
-9. 「git commit -m "first commit"」と打ちEnterを押す。  
-10. 「git push origin main」と打ちEnterを押す。  
-11. Githubに戻り作成したリポジトリ画面でリロードする。  
+   ```
+6. ターミナルで以下をコピーし生成されたURLだけgithubからコピー・貼り付けて実行
+   ``` md
+   git remote add origin [生成されたURL]
+   ```
+7. ターミナルで以下を貼り付けて実行
+   ``` md
+   git commit -m "first commit"
+   ```
+8. ターミナルで以下を貼り付けて実行
+   ``` md
+   git push origin main
+   ```
+9. Githubに戻り作成したリポジトリ画面でリロードする。  
