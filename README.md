@@ -1,6 +1,6 @@
 # 前提条件
-1. gitをインストール ([git]コマンドを使用できるように)　　[Git](https://git-scm.com/downloads)
-2. Github Desktopをインストール (GUIを使用できるように)　　[Github DeskTop](https://github.com/apps/desktop?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs)
+1. gitをインストール ([git]コマンドを使用できるように)　[Git](https://git-scm.com/downloads)
+2. Github Desktopをインストール (GUIを使用できるように)　[Github DeskTop](https://github.com/apps/desktop?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs)
   
 ## リポジトリの作成の仕方
 1. 「Repositories」から「New repository」をクリック。
@@ -8,5 +8,5 @@
 3. 自PCからアップロードしたいプロジェクトをエディター上で開きエディター上でターミナルを起動する。
 4. 「git init」と打ちEnterを押す。
 5. 「git add .」と打ちEnterを押す。
-6. Create repositoryの後の画面の「生成されたURL (https://github.com/リポジトリー名.git)」をコピーしてくる。
+6. Create repositoryの後の画面の「生成されたURL[https://github.com/リポジトリー名.git]」をコピーしてくる。
 7. 「git remote add origin [生成されたURL]」と打ちEnterを押す。
