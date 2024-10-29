@@ -10,3 +10,6 @@
 5. 「git add .」と打ちEnterを押す。
 6. Create repositoryの後の画面の生成されたURL```「https://github.com/リポジトリー名.git」```をコピーしてくる。
 7. 「git remote add origin [生成されたURL]」と打ちEnterを押す。
+8. 「git commit -m "first commit"」と打ちEnterを押す。
+9. 「git push origin main」と打ちEnterを押す。
+10. Githubに戻り作成したリポジトリ画面でリロードする。
