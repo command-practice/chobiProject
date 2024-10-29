@@ -6,10 +6,10 @@
 1. 「Repositories」から「New repository」をクリック。  
 2. repositoryの「名前」と「公開設定 (public・private)」を設定して「Create repository」をクリック。  
 3. 自PCからアップロードしたいプロジェクトをエディター上で開きエディター上でターミナルを起動する。  
+4. ターミナルで以下を貼り付け実行
    ``` md
    git init
-   ```
-   と打ちEnterを押す。  
+   ```  
 5. 「git add .」と打ちEnterを押す。  
 6. Create repositoryの後の画面の生成されたURL```「https://github.com/リポジトリー名.git」```をコピーしてくる。  
 7. 「git remote add origin [生成されたURL]」と打ちEnterを押す。  
